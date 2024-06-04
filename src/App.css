@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+.react{
+  width: 100px;
+  height: 100px;
+  color: bisque;
+  background-color: black; 
+  font-size: 70%;
+  align-items: center;
+}
